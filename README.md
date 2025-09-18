@@ -12,4 +12,4 @@ This repository hosts lecture slides for my Fall 2025 section of Data 345 at RIC
 - [Class 5 (09/11)](D345-FA25-Class5-0911.pdf): Implementing Matrices in Python / Solving Systems of Linear Equations
 ### Week 4 (09/15 - 09/19)
 - [Class 6 (09/15)](D345-FA25-Class6-0915.pdf): Row-Reducing Matrices / Gaussian Elimination
-- Class 7 (09/18): Row Operations in Python / Linear Subspaces (notebook: [Week 4](https://colab.research.google.com/drive/1t4_cCjFWZHTjAcB5rpngIaOmmldBtnQv?usp=drive_link))
+- [Class 7 (09/18)](D345-FA25-Class7-0918.pdf): Row Operations in Python / Linear Subspaces / Linear Independence (notebook: [Week 4](https://colab.research.google.com/drive/1t4_cCjFWZHTjAcB5rpngIaOmmldBtnQv?usp=drive_link))
