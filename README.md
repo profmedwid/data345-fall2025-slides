@@ -15,4 +15,4 @@ This repository hosts lecture slides for my Fall 2025 section of Data 345 at RIC
 - [Class 7 (09/18)](D345-FA25-Class7-0918.pdf): Row Operations in Python / Linear Subspaces / Linear Independence (notebook: [Week 4](https://colab.research.google.com/drive/1t4_cCjFWZHTjAcB5rpngIaOmmldBtnQv?usp=drive_link))
 ### Week 5 (09/22 - 09/26)
 - [Class 8 (09/22)](D345-FA25-Class8-0922.pdf): Basis / Matrix Rank (notebook: [Week 5](https://colab.research.google.com/drive/1v11HhxFE69byjQDpvchGZAnfSe6mPxR-?usp=sharing))
-- Class 9 (09/25): Linear Transformations / Null Space & Kernel
+- [Class 9 (09/25)](D345-FA25-Class9-0925.pdf): Linear Transformations
