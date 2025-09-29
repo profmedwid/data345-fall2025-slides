@@ -16,3 +16,6 @@ This repository hosts lecture slides for my Fall 2025 section of Data 345 at RIC
 ### Week 5 (09/22 - 09/26)
 - [Class 8 (09/22)](D345-FA25-Class8-0922.pdf): Basis / Matrix Rank (notebook: [Week 5](https://colab.research.google.com/drive/1v11HhxFE69byjQDpvchGZAnfSe6mPxR-?usp=sharing))
 - [Class 9 (09/25)](D345-FA25-Class9-0925.pdf): Linear Transformations
+### Week 6 (09/29 - 10/03)
+- [Class 10 (09/29)](D345-FA25-Class10-0929.pdf): Visualizing Linear Transformations / Image and Kernel (notebook: [Week 6](https://colab.research.google.com/drive/143ZW_WVNkKkdOQ84j37JL4fW-6oOdyZF?usp=sharing))
+- Class 11 (10/02): Image and Kernel
